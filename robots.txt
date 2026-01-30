@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://crown-casino-resorts.com/
+Sitemap: https://crown-casino-resorts.com/sitemap.xml
